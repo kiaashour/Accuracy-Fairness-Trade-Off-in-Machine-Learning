@@ -1,0 +1,6 @@
+folktables
+aif360
+numpy
+pandas
+matplotlib
+sklearn
