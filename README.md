@@ -43,5 +43,5 @@ This will install all of the packages listed in the `requirements.txt` file.
 
 To clone this repository, run the following command:
 
-`git clone https://github.com/kiaashour/Adversarial-Search-on-Tic-Tac-Toe.git`
+`git clone https://github.com/kiaashour/Accuracy-Fairness-Trade-Off-in-Machine-Learning.git`
 
